@@ -1,93 +1,82 @@
-# AparatEmoter 🎉
+# AparatLab 🚀
 
-**AparatEmoter** is a browser extension that brings the joy of emotes to the Aparat video platform, similar to what 7TV offers for other platforms. With AparatEmoter, users can enhance their chat experience by using a wide variety of fun and expressive emotes directly within the Aparat chat interface.
-
----
-
-## Features ✨
-
-- **Custom Emotes**: Enhance your chat interactions with a rich set of custom emotes.
-- **Dynamic Updates**: Emotes are dynamically updated, allowing you to add or modify emotes without needing to update the extension.
-- **User-Friendly**: Simple and intuitive UI that integrates seamlessly with Aparat’s chat.
-- **Lightweight & Fast**: Optimized for performance, ensuring minimal impact on browsing speed.
+**AparatLab** is your go-to source for tools and extensions that enhance your experience on the Aparat video platform. We develop innovative browser extensions and interactive overlays designed to elevate how you engage with Aparat, making your streaming and viewing experience more dynamic and enjoyable.
 
 ---
 
-## Installation 🚀
+## Our Projects 📦
 
-### Chrome
-1. [Download from Chrome Web Store](#) *(Link coming soon)*
-2. Click "Add to Chrome".
-3. Enjoy using emotes in your Aparat chats!
+### [AparatEmoter 🎉](https://github.com/AparatLab/AparatEmoter)
+**AparatEmoter** is a browser extension that brings the joy of emotes to the Aparat video platform. Similar to 7TV, AparatEmoter allows users to enhance their chat experience by using a wide variety of fun and expressive emotes directly within the Aparat chat interface.
 
-### Firefox
-1. [Download from Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/aparatemoter/) 
-2. Click "Add to Firefox".
-3. Start expressing yourself with emotes!
+#### Features
+- **Custom Emotes**: Personalize your chat interactions with a wide array of custom emotes.
+- **Dynamic Updates**: Emotes are updated dynamically from our server, no manual updates needed.
+- **Seamless Integration**: Works effortlessly within the Aparat chat interface.
 
-### Manual Installation
-For users who prefer manual installation:
-1. Download the latest release from the [Releases](#) section (not available yet).
-2. Unzip the package.
-3. Load it as an unpacked extension in your browser's developer mode.
+[Explore AparatEmoter](https://github.com/AparatLab/AparatEmoter) | [Download for Firefox](https://addons.mozilla.org/en-US/firefox/addon/aparatemoter/)
 
 ---
 
-## How It Works 🔍
+### [StreamOverlay 📺](https://github.com/AparatLab/StreamOverlay)
+**StreamOverlay** is an interactive overlay application that allows streamers to display chat messages and character overlays directly on their streams. Designed for Aparat and other streaming platforms, StreamOverlay enhances your stream by integrating real-time chat and interactive elements.
 
-AparatEmoter scans the chat messages in real-time, detects specific keywords, and replaces them with the corresponding emotes. The emotes are stored on our server, and the extension fetches them dynamically, ensuring you always have access to the latest emotes.
+#### Features
+- **Real-time Chat Display**: Seamlessly show chat messages on your stream.
+- **Interactive Overlays**: Engage with your audience through customizable character overlays.
+- **User-Friendly**: Simple setup with OBS Studio and Godot Engine.
+
+[Explore StreamOverlay](https://github.com/AparatLab/StreamOverlay)
 
 ---
 
 ## Contributing 🤝
 
-We welcome contributions from the community! Whether you want to suggest new emotes, fix bugs, or improve the codebase, here’s how you can get involved:
+We are always looking for passionate developers, designers, and testers to join our mission of improving the Aparat experience. Whether you want to contribute code, suggest new features, or report bugs, your help is greatly appreciated!
 
-1. **Fork the repository**.
-2. **Clone your fork** to your local machine.
-3. **Create a new branch** for your feature or bugfix.
-4. **Commit your changes** and push them to your fork.
-5. **Open a Pull Request** to our `main` branch.
+### How to Contribute
+1. Fork the repository of the project you want to contribute to.
+2. Clone your fork to your local machine.
+3. Create a new branch for your feature or bugfix.
+4. Commit your changes and push them to your fork.
+5. Open a Pull Request to the `main` branch of the project.
 
-### Setting Up Your Development Environment
-1. Clone the repository.
-    ```bash
-    git clone https://github.com/AparatEmoter/AparatEmoter.git
-    ```
+Check out our [Contributing Guidelines](https://github.com/AparatLab/.github/blob/main/CONTRIBUTING.md) for more details.
+
 ---
 
 ## Roadmap 🛣️
 
-- [ ] **Support for more emote sets**
-- [ ] **Support Dynamic Emotes Uploading From Users**
-- [ ] **Emote suggestions based on context**
-- [ ] **Improved UI for managing emotes**
-- [ ] **Cross-browser synchronization of user settings**
+We have big plans for the future! Here’s what we’re working on:
+
+- **Expanding Emote Sets in AparatEmoter**: More emotes and support for user-uploaded emotes.
+- **Advanced Features in StreamOverlay**: Enhanced customization, performance improvements, and cross-platform compatibility.
+- **New Projects**: We’re always exploring new ideas to make Aparat more fun and interactive.
 
 ---
 
 ## Community & Support 💬
 
-Join our community to stay updated on the latest features, share feedback, or get help:
+Join our growing community! Connect with us, share your ideas, and get help:
+
 - [Discord Server](#) *(Link coming soon)*
 - [GitHub Discussions](#) *(Link coming soon)*
 
-For any issues or feature requests, please open an [issue](https://github.com/AparatEmoter/AparatEmoter/issues) on GitHub.
+If you encounter any issues or have suggestions, please open an [issue](https://github.com/AparatLab/AparatLab/issues) on GitHub.
 
 ---
 
 ## License 📄
 
-AparatEmoter is licensed under the [MIT License](LICENSE).
+All projects under **AparatLab** are open-source and licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute our code.
 
 ---
 
 ## Acknowledgments 🙏
 
-A big thank you to all our contributors and the open-source community! Special thanks to the teams behind 7TV and Aparat for inspiring this project.
+We extend our gratitude to all contributors, the open-source community, and the platforms that inspire us. Special thanks to the teams behind 7TV, Aparat, and the original developers of StreamAvatars for their pioneering work.
 
 ---
 
-*Made with ❤️ by [imaarov](https://github.com/imaarov).*
-
+<p align="center">Made with ❤️ by the AparatLab Team</p>
 
