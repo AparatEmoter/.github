@@ -18,7 +18,7 @@
 
 ---
 
-### [StreamOverlay 📺](https://github.com/AparatLab/StreamOverlay)
+### [StreamOverlay 📺](https://github.com/AparatLab/StreamOverlays)
 **StreamOverlay** is an interactive overlay application that allows streamers to display chat messages and character overlays directly on their streams. Designed for Aparat and other streaming platforms, StreamOverlay enhances your stream by integrating real-time chat and interactive elements.
 
 #### Features
